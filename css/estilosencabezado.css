@@ -1,0 +1,11 @@
+.dropdown{
+    margin-right: 80px;
+    text-align: center;
+}
+.dropdown-menu > li {
+        text-align: center;
+  }
+#imagendropdown{
+    border-radius: 50%;
+}
+
